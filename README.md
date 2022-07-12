@@ -5,7 +5,7 @@
 - [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
 - [TestComments](https://github.com/golang/go/wiki/TestComments)
 
-From go blog https://go.dev/blog:
+From the [go blog](https://go.dev/blog):
 - https://go.dev/blog/slices-intro
 - https://go.dev/blog/slices
 - https://go.dev/blog/module-compatibility
