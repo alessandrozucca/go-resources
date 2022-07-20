@@ -16,6 +16,7 @@ From the [go blog](https://go.dev/blog):
 Misc:
 - https://gobyexample.com/
 - https://github.com/avelino/awesome-go
+- https://www.calhoun.io/when-nil-isnt-equal-to-nil/
 
 Some recommended episodes of Gotime:
 - [Creating the Go programming language featuring Rob Pike & Robert Griesemer (Go Time #100)](https://changelog.com/gotime/100)
