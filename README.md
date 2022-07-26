@@ -11,6 +11,7 @@ From the [go blog](https://go.dev/blog):
 - https://go.dev/blog/module-compatibility
 - https://go.dev/blog/context-and-structs
 - https://go.dev/blog/errors-are-values
+- https://go.dev/blog/package-names
 - https://go.dev/blog/pipelines
 
 Misc:
