@@ -1,5 +1,8 @@
 ## Go resources
 
+- [Go FAQ](https://go.dev/doc/faq)
+- [Go wiki](https://github.com/golang/go/wiki/)
+- [SliceTricks from go wiki](https://github.com/golang/go/wiki/SliceTricks)
 - [Effective Go](https://go.dev/doc/effective_go)
 - [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
